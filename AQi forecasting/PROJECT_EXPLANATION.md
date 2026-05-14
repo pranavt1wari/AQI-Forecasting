@@ -1,5 +1,5 @@
 # AQI Forecasting for Indian Oil Corporation
-### Team: Vrishank | Pranav | Harshit Garg
+
 
 ---
 
